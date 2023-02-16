@@ -3,6 +3,7 @@ Note: Before contributing check [contribution.md](/CONTRIBUTION.md)
 
 - [Python](#Python)
     - [OpenCv](#OpenCv)
+    - [tensorflow-lite](#tensorflow-lite)
 - [JS](#JS)
 
 # Python
@@ -13,5 +14,12 @@ Note: Before contributing check [contribution.md](/CONTRIBUTION.md)
 pkg i opencv-python gst-python
 ```
 regarding docs check out this [so answer](https://stackoverflow.com/a/56310469/13980264)
+
+## tensorflow-lite
+
+```bash
+pip install tflite
+```
+[docs](https://www.tensorflow.org/lite/guide)
 
 # Javascript
